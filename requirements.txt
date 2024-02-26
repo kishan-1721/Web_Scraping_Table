@@ -1,2 +1,4 @@
-request
-selenium
+streamlit 
+requests 
+beautifulsoup4 
+pandas
